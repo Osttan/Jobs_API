@@ -4,7 +4,7 @@
   "description": "Jobs API from Udemy John Smilga's Node JS Course",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon ./app.js"
   },
   "author": "Andre Ostan",
   "license": "ISC",
